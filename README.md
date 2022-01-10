@@ -1,1 +1,1 @@
-# lifecycle-quickstart
+Quarkus guide: https://quarkus.io/guides/lifecycle
